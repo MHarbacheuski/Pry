@@ -1,0 +1,4 @@
+first_name,last_name,gender,age,address,city,state,phone,email,allow_sms,allow_email
+Bob,Marley,m,45,2763 Tori Lane,Salt Lake City,UT,1235439504,bobmarley@random.com,true,false
+Billy,McGregory,M,22,3762 Star Route,Schaumburg,IL,+1545467644,billymcgregory@random.org,T,F
+Lady,GaGa,F,88,2694 George Street,Gainesville,FL,1119993334,ladygaga@random.by,,
